@@ -17,7 +17,8 @@ Your feedback helps me improving things even more!<br>
 ## For Developers
 You can contribute to the code. Create a Fork, make your changes and open a pull request.<br>
 You can also reach me out and we can code something together.<br>
-If you want to improve other things than the code (e.g. Readme) its also nice. Like before, just create a pull request and I'll look into it.
+If you want to improve other things than the code (e.g. Readme) its also appreciated.<br>
+Like before, just create a pull request and I'll look into it.<br>
 If you don't know what to code, look into the Projects Section of my Repos.
 
 
