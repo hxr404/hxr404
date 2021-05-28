@@ -55,8 +55,10 @@ Here are some ideas to get you started:
 There are  many ways how to Contribute to my projects (see [CONTRIBUTE.md](CONTRIBUTE.md))<br>
 
 But ofc I also appreciate Donations:
-Preferred Payment Method is XMR `monero:889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`
-<p><a href="https://www.buymeacoffee.com/hxr404"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hxr404" /></a></p>Donating helps keeping up my work and paying the fees<br><br>
+Preferred Payment Method is XMR<br>
+<img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
+`889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
+Donating helps keeping up my work and paying the fees<br><br>
 <br></p>
 Altenatively you can get me some money (by viewing ads, affilate links, installing addons) without actually paying something, see <a href="https://github.com/hxr404/hxr404/freeDonate.md">freeDonate.md</a>
 
