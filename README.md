@@ -20,17 +20,13 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxr404&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
 
 
-- 🔭 I’m currently working on [ExpireBot](https://github.com/hxr404/Discord-ExpireBot)
+- 🔭 I’m currently working on my coding projects and IRL Stuff
 
-- 🌱 I’m currently learning **How to hack Discord**
+- 👯 I’m looking to collaborate on **All of my Projects!**
 
-- 👯 I’m looking to collaborate on **All my Projects!**
+- 👨‍💻 ~~All~~ Most of my projects are available at [GitHub](GitHub)
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
-
-- 💬 Ask me about **Batch Files, Discord, everything I've coded and the Programming Languages I've used**
-
-- 📫 How to reach me: **Discord**
+- 📫 How to reach me: **Discord**, Twitter, GitHub, and reddit (and others)
 
 - ⚡ Fun fact: **I like fun facts**
 
