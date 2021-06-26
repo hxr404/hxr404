@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hxr404/hxr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,15 +16,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxr404&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
 
-This is my profile page
+This is my profile page, still a WIP (= Work in progress)
 
 
 ### Contact:
 
 <p align="left"> <a href="https://twitter.com/hxr404" target="blank"><img src="https://img.shields.io/twitter/follow/hxr404?logo=twitter&style=for-the-badge" alt="hxr404" /></a> </p>
 
-Contact me on Discord if you need a quick reply
-you can also write me on Twitter or open a Discussion/issue here on GitHub
+Contact me on Discord if you need a quick reply<br>
+you can also write me on Twitter or open a Discussion/issue here on GitHub<br>
 
 If have a question about my coding projects, join my Community Server and you'll be helped.
 
@@ -35,11 +33,10 @@ If have a question about my coding projects, join my Community Server and you'll
 <a href="https://github.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" height="30" width="40" /></a>
 <a href="https://reddit.com/u/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="hxr404" height="30" width="40" /></a>
+<a href="https:/twitch.tv/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https://instagram.com/hxr404_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hxr404_official" height="30" width="40" /></a>
 <a href="https://dev.to/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https://fb.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hxr404" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12703877" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12703877" height="30" width="40" /></a>
-<p align="left">
 
 
 </p>
