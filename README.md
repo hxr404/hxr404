@@ -76,12 +76,17 @@ So in direct comparison: On Patreon I get 92% of the dontaions, wheras on GitHub
 In case you feel more like doing a one-time donation, the GitHub Sponsors site will have a one-time donation tier.
 For now I recommend becoming my Patreon, you can cancel your pledge anytime.
 
+Note that One-Time Donators won't recieve the same benefits as monthly subscibers. If you have donated, contact me and I'll give you the donator Role on my Discord.
+(Patrons will also recieve this role, even if they stopped being my Patron.)
+
 I also accept Cryptocurrencies for one-time Donation, here is my Monero Adress:
 <img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
 `889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
 In case you want to donate with another crypto e.g. Bitcoin, there are plenty of good exchanges that offer monero, for example I personally recommend HavenoDEX.
 
+
 If nothing seems good for you, contact me and we'll find a way to handle your donation.
+
 
 
 ## some stats and widgets that apparently everyone has on their GitHub Profile
