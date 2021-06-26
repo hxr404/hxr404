@@ -64,6 +64,7 @@ The Tiers and Benefits are exactly the same on both platforms
 Here are the Links:
 
 <strike><a href="https://github.com/sponsors/hxr404">Support me on Github Sponsors</a></strike> currently not available<br>
+<br>
 <a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a>
 
 
