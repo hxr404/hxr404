@@ -80,7 +80,10 @@ For now I recommend becoming my Patreon, you can cancel your pledge anytime.<br>
 Note that One-Time Donators won't recieve the same benefits as monthly subscibers. If you have donated, contact me and I'll give you the donator Role on my Discord.
 (Patrons will also recieve this role, even if they stopped being my Patron.)
 
-I also accept Cryptocurrencies for one-time Donation, here is my Monero Adress:<br>
+If you donate using liberapay, thats also great, but you won't recieve benefits here.<br>
+<a href="https://liberapay.com/hxr404/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+  
+I also accept Cryptocurrencies for one-time Donations, here is my Monero Adress:<br>
 <img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
 `889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
 In case you want to donate with another crypto e.g. Bitcoin, there are plenty of good exchanges that offer monero, for example I personally recommend HavenoDEX.
