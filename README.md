@@ -42,14 +42,14 @@ If have a question about my coding projects, join my Community Server and you'll
 </p>
 
 
-### Support:
+### Support Me
 My work here is vouluntary and Community-driven, wich means if you want a feature, you'll get a feature. No hidden paywalls, no scam, free for everyone.
 I Open Source almost everything, so you can change and adjust things to match your pesonal preferences, improve it and share Ideas with the communtiy.
 
 There are  many ways how to Contribute to my projects (see [CONTRIBUTE.md](CONTRIBUTE.md))<br>
 
 But ofcourse I also put lots of time into this. No paywalls and propretary licenses mean that I can't sell my work, everyone can use everything for free.
-I somehow need to make a living, if I don't earn enough money through coding, I have to do more other jobs and thus have less time for mantaining everything, development won't make fast progress, etc.
+I somehow need to make a living, if I don't earn enough money through coding, I'll have to do more other jobs and thus have less time for mantaining everything and development won't make fast progress, etc.<br>
 Also I need to pay for Infrastructure, for example hosting my Discord Bots. If I want it to run 24/7 and make sure it doesn't have major downtimes, I need to buy a VPS.
 The backend of some tools also needs to run somewhere.
 
@@ -73,14 +73,14 @@ On patreon theres a 8% Fee (+taxes and transaction fees), while on GitHub there 
 And a really big advantage of GitHub Sponsors is: They give me x2 the amount of money you donated. Means if you buy the 10€ rank, GitHub/Microsoft will gift me additional 10€.<br>
 So in direct comparison: On Patreon I recieve 92% of the dontaions, wheras on GitHub I get 200%...
 </details>
-
-In case you feel more like doing a one-time donation, the GitHub Sponsors site will have a one-time donation tier.
-For now I recommend becoming my Patreon, you can cancel your pledge anytime.
+<br>
+In case you feel more like doing a one-time donation, the GitHub Sponsors site will have a one-time donation tier.<br>
+For now I recommend becoming my Patreon, you can cancel your pledge anytime.<br>
 
 Note that One-Time Donators won't recieve the same benefits as monthly subscibers. If you have donated, contact me and I'll give you the donator Role on my Discord.
 (Patrons will also recieve this role, even if they stopped being my Patron.)
 
-I also accept Cryptocurrencies for one-time Donation, here is my Monero Adress:
+I also accept Cryptocurrencies for one-time Donation, here is my Monero Adress:<br>
 <img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
 `889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
 In case you want to donate with another crypto e.g. Bitcoin, there are plenty of good exchanges that offer monero, for example I personally recommend HavenoDEX.
