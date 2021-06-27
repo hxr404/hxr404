@@ -67,12 +67,12 @@ Here are the Links:
 <br>
 <a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a>
 
-
-"Why applying for GitHub Sponsors, if Patreon just works perfectly fine and is more popular?"
-On patreon theres a 8% Fee (+taxes and transaction fees), while on GitHub there are 0 fees.
-And a really big advantage of GitHub Sponsors: They give me x2 the amount of money you donated. Means if you buy the 10€ rank, GitHub/Microsoft would gift me additional 10€.
-So in direct comparison: On Patreon I get 92% of the dontaions, wheras on GitHub I get 200%...
-
+<details>
+<summary>"Why applying for GitHub Sponsors, if Patreon just works perfectly fine and is more popular?"</summary>
+On patreon theres a 8% Fee (+taxes and transaction fees), while on GitHub there are 0 fees.<bbr>
+And a really big advantage of GitHub Sponsors is: They give me x2 the amount of money you donated. Means if you buy the 10€ rank, GitHub/Microsoft will gift me additional 10€.<br>
+So in direct comparison: On Patreon I recieve 92% of the dontaions, wheras on GitHub I get 200%...
+</details>
 
 In case you feel more like doing a one-time donation, the GitHub Sponsors site will have a one-time donation tier.
 For now I recommend becoming my Patreon, you can cancel your pledge anytime.
