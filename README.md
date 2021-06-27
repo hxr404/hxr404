@@ -26,7 +26,7 @@ This is my profile page, still a WIP (= Work in progress)
 Contact me on Discord if you need a quick reply<br>
 you can also write me on Twitter or open a Discussion/issue here on GitHub<br>
 
-If have a question about my coding projects, join my Community Server and you'll be helped.
+If you have a question about my coding projects, join my Community Server and you'll be helped.
 
 <a href="https://discord.gg/ptpyaEPapy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ptpyaEPapy" height="30" width="40" /></a>
 <a href="https://twitter.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hxr404" height="30" width="40" /></a>
