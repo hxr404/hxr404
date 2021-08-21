@@ -51,13 +51,12 @@ But I also put lots of time, effort and money into it, so I really appreciate Do
 You can either make a One-Time Donation or become a patron (=monthly/yearly subscription) and as a thank you receive some benefits.
 
 
-I have accounts on multiple platforms, so you have the choice which one to use.
-I'm currently avaiting approval for GitHub Sponsors, they double every Donation, so consider using that when its finally enabled.
-In the mean time ko-fi is also really great, they charge 0 fees for one-time donations and not much fees for monthly donations.
+I have accounts on multiple platforms, so you have the choice which one to use.<br>
+I'm finally approved for GitHub Sponsors!!!!!! Please check it out.
 
 Here are the Links:
 
-<strike><a href="https://github.com/sponsors/hxr404"><img alt="GitHub Sponsors" src="sponsors.png"></a></strike> currently not available
+<a href="https://github.com/sponsors/hxr404"><img alt="GitHub Sponsors" src="sponsors.png"></a>
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E35SXAO)
 <br>
