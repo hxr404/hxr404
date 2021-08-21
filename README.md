@@ -57,7 +57,7 @@ In the mean time ko-fi is also really great, they charge 0 fees for one-time don
 
 Here are the Links:
 
-<strike><a href="https://github.com/sponsors/hxr404">Support me on Github Sponsors</a></strike> currently not available<br>
+<strike><a href="https://github.com/sponsors/hxr404"><img alt="GitHub Sponsors" src="sponsors.png"></a></strike> currently not available<br>
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E35SXAO)
 <br>
