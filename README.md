@@ -65,13 +65,15 @@ Here are the Links:
 <br>
 <a href="https://www.buymeacoffee.com/hxr404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41px" width="174px" ></a> **(One-Time Donations only)** **(Some Fees)**
 <br>
-<a href="https://liberapay.com/hxr404/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> **(Not automatic)**
+<a href="https://liberapay.com/hxr404/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> **(NO Patron-Benefits)**
 <br>
-I also accept Cryptocurrencies **(not automatic)**
+<details>
+  <summary>I also accept Cryptocurrencies</summary>
+  
 <img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
 `889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
 In case you want to donate with another crypto e.g. Bitcoin, there are plenty of good exchanges that offer monero, for example I personally recommend HavenoDEX.
-
+</details>
 
 Note that One-Time Donators won't recieve the same benefits as monthly subscibers. If you have donated, contact me and I'll give you the donator Role on my Discord.
 (Patrons will also recieve this role, even if they stopped being my Patron.)
