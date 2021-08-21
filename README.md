@@ -31,7 +31,7 @@ If you have a question about my coding projects, join my Community Server and yo
 <a href="https://discord.gg/ptpyaEPapy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ptpyaEPapy" height="30" width="40" /></a>
 <a href="https://twitter.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https://github.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hxr404" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" height="30" width="40" /></a>
 <a href="https://reddit.com/u/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https:/twitch.tv/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https://instagram.com/hxr404_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hxr404_official" height="30" width="40" /></a>
@@ -64,6 +64,8 @@ The Tiers and Benefits are exactly the same on both platforms
 Here are the Links:
 
 <strike><a href="https://github.com/sponsors/hxr404">Support me on Github Sponsors</a></strike> currently not available<br>
+<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E35SXAO)
 <br>
 <a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a>
 
