@@ -44,14 +44,16 @@ If you have a question about my coding projects, join my Community Server and yo
 
 ### Support Me
 
-There are  many ways how to Contribute to my projects (see [CONTRIBUTE.md](CONTRIBUTE.md))<br>
+There are  many ways how to contribute to my projects (see [CONTRIBUTE.md](CONTRIBUTE.md))<br>
 
-But I also put lots of time, effort and money into my projects, so I really appreciate Donations.
+But I also put lots of time, effort and money into it, so I really appreciate Donations.
 
 You can either make a One-Time Donation or become a patron (=monthly/yearly subscription) and as a thank you receive some benefits.
 
 
 I have accounts on multiple platforms, so you have the choice which one to use.
+I'm currently avaiting approval for GitHub Sponsors, they double every Donation, so consider using that when its finally enabled.
+In the mean time ko-fi is also really great, they charge 0 fees for one-time donations and not much fees for monthly donations.
 
 Here are the Links:
 
@@ -59,31 +61,21 @@ Here are the Links:
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E35SXAO)
 <br>
-<a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a> **(Monthly Donations only)**
+<a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a> **(Monthly Donations only)** **(High Fees)**
 <br>
-<a href="https://www.buymeacoffee.com/hxr404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41px" width="174px" ></a> **(One-Time Donations only)**
+<a href="https://www.buymeacoffee.com/hxr404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41px" width="174px" ></a> **(One-Time Donations only)** **(Some Fees)**
 <br>
+<a href="https://liberapay.com/hxr404/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> **(Not automatic)**
+<br>
+I also accept Cryptocurrencies **(not automatic)**
+<img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
+`889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
+In case you want to donate with another crypto e.g. Bitcoin, there are plenty of good exchanges that offer monero, for example I personally recommend HavenoDEX.
 
-<details>
-<summary>"Why applying for GitHub Sponsors, if Patreon just works perfectly fine and is more popular?"</summary>
-On patreon theres a 8% Fee (+taxes and transaction fees), while on GitHub there are 0 fees.<bbr>
-And a really big advantage of GitHub Sponsors is: They give me x2 the amount of money you donated. Means if you buy the 10€ rank, GitHub/Microsoft will gift me additional 10€.<br>
-So in direct comparison: On Patreon I recieve 92% of the dontaions, wheras on GitHub I get 200%...
-</details>
-<br>
-In case you feel more like doing a one-time donation, the GitHub Sponsors site will have a one-time donation tier.<br>
-For now I recommend becoming my Ko, you can cancel your pledge anytime.<br>
 
 Note that One-Time Donators won't recieve the same benefits as monthly subscibers. If you have donated, contact me and I'll give you the donator Role on my Discord.
 (Patrons will also recieve this role, even if they stopped being my Patron.)
 
-If you donate using liberapay, thats also great, but you won't recieve benefits here.<br>
-<a href="https://liberapay.com/hxr404/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-  
-I also accept Cryptocurrencies for one-time Donations, here is my Monero Adress:<br>
-<img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
-`889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
-In case you want to donate with another crypto e.g. Bitcoin, there are plenty of good exchanges that offer monero, for example I personally recommend HavenoDEX.
 
 
 If nothing seems good for you, contact me and we'll find a way to handle your donation.
