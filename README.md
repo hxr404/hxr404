@@ -43,23 +43,15 @@ If you have a question about my coding projects, join my Community Server and yo
 
 
 ### Support Me
-My work here is vouluntary and Community-driven, wich means if you want a feature, you'll get a feature. No hidden paywalls, no scam, free for everyone.
-I Open Source almost everything, so you can change and adjust things to match your pesonal preferences, improve it and share Ideas with the communtiy.
 
 There are  many ways how to Contribute to my projects (see [CONTRIBUTE.md](CONTRIBUTE.md))<br>
 
-But ofcourse I also put lots of time into this. No paywalls and propretary licenses mean that I can't sell my work, everyone can use everything for free.
-I somehow need to make a living, if I don't earn enough money through coding, I'll have to do more other jobs and thus have less time for mantaining everything and development won't make fast progress, etc.<br>
-Also I need to pay for Infrastructure, for example hosting my Discord Bots. If I want it to run 24/7 and make sure it doesn't have major downtimes, I need to buy a VPS.
-The backend of some tools also needs to run somewhere.
+But I also put lots of time, effort and money into my projects, so I really appreciate Donations.
 
-So please consider donating, it really helps a lot!
+You can either make a One-Time Donation or become a patron (=monthly/yearly subscription) and as a thank you receive some benefits.
 
-Fixed Donations have the advantage that I can plan more easily on how to pay monthly fees and how much I need to work on other Jobs,
-but of course One-Time Donations are also appreciated a lot.
 
-I have a patreon site and am currently awaiting approval for my GitHub Sponsors site.
-The Tiers and Benefits are exactly the same on both platforms
+I have accounts on multiple platforms, so you have the choice which one to use.
 
 Here are the Links:
 
@@ -67,7 +59,10 @@ Here are the Links:
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E35SXAO)
 <br>
-<a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a>
+<a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a> **(Monthly Donations only)**
+<br>
+<a href="https://www.buymeacoffee.com/hxr404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41px" width="174px" ></a> **(One-Time Donations only)**
+<br>
 
 <details>
 <summary>"Why applying for GitHub Sponsors, if Patreon just works perfectly fine and is more popular?"</summary>
@@ -77,7 +72,7 @@ So in direct comparison: On Patreon I recieve 92% of the dontaions, wheras on Gi
 </details>
 <br>
 In case you feel more like doing a one-time donation, the GitHub Sponsors site will have a one-time donation tier.<br>
-For now I recommend becoming my Patreon, you can cancel your pledge anytime.<br>
+For now I recommend becoming my Ko, you can cancel your pledge anytime.<br>
 
 Note that One-Time Donators won't recieve the same benefits as monthly subscibers. If you have donated, contact me and I'll give you the donator Role on my Discord.
 (Patrons will also recieve this role, even if they stopped being my Patron.)
