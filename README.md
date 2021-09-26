@@ -32,6 +32,22 @@ This profile page is still a WIP so please be lenient ;)
 <a href="https://dev.to/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https://fb.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hxr404" height="30" width="40" /></a>
 
+<!--
+Accounts:
+Twitter: hxr404
+Instagram: hxr404_official
+Facebook: hxr404
+GitHub: hxr404
+dev.to: hxr404
+Matrix: hxr404:matrix.org
+Youtube: youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg
+Reddit: u/hxr404
+Vimeo: hxr404
+diaspora: hxr404@societas.online 
+tumblr: hxr404
+twitch (currently diabled): hxr404
+Medium: hxr404
+-->
 
 </p>
 
