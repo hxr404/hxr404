@@ -16,19 +16,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxr404&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
 
-This is my profile page, still a WIP (= Work in progress)
+This profile page is still a WIP so please be lenient ;)
+
 
 
 ### Contact:
 
-<p align="left"> <a href="https://twitter.com/hxr404" target="blank"><img src="https://img.shields.io/twitter/follow/hxr404?logo=twitter&style=for-the-badge" alt="hxr404" /></a> </p>
-
-Contact me on Discord if you need a quick reply<br>
-you can also write me on Twitter or open a Discussion/issue here on GitHub<br>
-
-If you have a question about my coding projects, join my Community Server and you'll be helped.
-
-<a href="https://discord.gg/ptpyaEPapy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ptpyaEPapy" height="30" width="40" /></a>
+<a href="https://discord.gg/ptpyaEPapy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ptpyaEPapy" height="30" width="40" /></a> 
 <a href="https://twitter.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https://github.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hxr404" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" height="30" width="40" /></a>
@@ -46,9 +40,9 @@ If you have a question about my coding projects, join my Community Server and yo
 
 There are  many ways how to contribute to my projects (see [CONTRIBUTE.md](CONTRIBUTE.md))<br>
 
-But I also put lots of time, effort and money into it, so I really appreciate Donations.
+But I also put lots of time, effort and money into my work, so I really appreciate Donations.
 
-You can either make a One-Time Donation or become a patron (=monthly/yearly subscription) and as a thank you receive some benefits.
+You can either make a One-Time Donation or become a patron (=monthly/yearly donator) and as a thank you receive some benefits.
 
 
 I have accounts on multiple platforms, so you have the choice which one to use.<br>
@@ -74,19 +68,17 @@ Here are the Links:
 In case you want to donate with another crypto e.g. Bitcoin, there are plenty of good exchanges that offer monero, for example I personally recommend HavenoDEX.
 </details>
 
-Note that One-Time Donators won't recieve the same benefits as monthly subscibers. If you have donated, contact me and I'll give you the donator Role on my Discord.
-(Patrons will also recieve this role, even if they stopped being my Patron.)
-
-
 
 If nothing seems good for you, contact me and we'll find a way to handle your donation.
 
 
 
-## some stats and widgets that apparently everyone has on their GitHub Profile
+## some widgets that apparently everyone has on their GitHub Profile
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hxr404" alt="hxr404" /></a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hxr404&show_icons=true" alt="hxr404" />
+[![hxr404's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxr404&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxr404&show_icons=true&locale=en" alt="hxr404" /></p>
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hxr404&margin-w=15" alt="hxr404" /></a>
+
 
