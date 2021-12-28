@@ -46,28 +46,33 @@ There are  many ways how to contribute to my projects (see [CONTRIBUTE.md](CONTR
 
 But I also put lots of time, effort and money into my work, so I really appreciate Donations.
 
-You can either make a One-Time Donation or become a patron (=monthly/yearly donator) and as a thank you receive some benefits.
 
+<details>
+  <summary>Here's how you can donate:</summary>
 
-There are multiple ways how to donate, I set up accounts on different platforms for your convenience.
-<details>
-  <summary>Here's a comparision of all available methods:</summary>
+You can either make a one-time donation or become a patron (=monthly/yearly donator) and as a thank you receive some benefits.
+There are multiple ways how to donate, I set up accounts on different platforms for your convenience.<br>
+Monero, GitHub Sponsors and liberapay are the preferred ones, allthough others are available aswell.
+
   
-|Name              |one-time donations|recurring donations|patron benefits|fees                |privacy     |Link                                                                                                                                                                                           |
-|------------------|------------------|-------------------|---------------|--------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Monero            |       ✔️         |   (✔️) manually    |     ✔️        |✔️ none              |✔️✔️excellent|<a href="monero:889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj"><img src="https://github.com/hxr404/hxr404/blob/main/hxr404_monero.png" /></a>|
-|Github Sponsors   |       ✔️         |         ✔️         |     ✔️        |✔️ none              |OK          |<a href="https://github.com/sponsors/hxr404"><img alt="GitHub Sponsors" src="sponsors.png" /></a>                                                                                              |
-|Liberapay         |       ❌         |         ✔️         |      ❌       |✔️ none              |✔️good       |<a href="https://liberapay.com/hxr404/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>                                                     |
-|KoFi              |       ✔️         |       ✔️           |       ✔️      |⚠️ only for recurring|⚠️ acceptable|<a href="https://ko-fi.com/E1E35SXAO"><img alt="KoFi" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>                                                                                   |
-|buy me a coffe    |       ✔️         |      ❌            |       ✔️      |⚠️ medium            |⛔ bad       |<a href="https://www.buymeacoffee.com/hxr404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41px" width="174px" /></a>   |
-|Patreon           |      ❌          |       ✔️           |       ✔️      |⛔ high              |⛔ bad       |<a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a>           |
+|Name              |one-time donations|recurring donations|patron benefits|fees                |privacy     |Link                                                                                                                                                                                       |
+|------------------|------------------|-------------------|---------------|--------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Monero            |       ✔️         |   (✔️) manually    |     ✔️        |✔️ none              |✔️✔️excellent| see below                                                                                                                                                                                |
+|Github Sponsors   |       ✔️         |         ✔️         |     ✔️        |✔️ none              |OK          |<a href="https://github.com/sponsors/hxr404"><img alt="GitHub Sponsors" src="sponsors.png"></a>                                                                                           |
+|Liberapay         |       ❌         |         ✔️         |      ❌       |✔️ none              |✔️good       |<a href="https://liberapay.com/hxr404/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>                                                |
+|KoFi              |       ✔️         |         ✔️         |       ✔️      |⚠️ only for recurring|⚠️ acceptable|<a href="https://ko-fi.com/E1E35SXAO"><img alt="KoFi" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>                                                                              |
+|buy me a coffe    |       ✔️         |        ❌          |       ✔️      |⚠️ medium            |⛔ bad       |<a href="https://www.buymeacoffee.com/hxr404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41px" width="174px"></a>|
+|Patreon           |       ❌         |         ✔️         |       ✔️      |⛔ high              |⛔ bad       |<a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a>      |
 <details>
-  <summary>I also accept Cryptocurrencies</summary>
-  
-<img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
-`889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
-In case you want to donate with another crypto e.g. Bitcoin you'll have to use an exchange. The are many good exchanges that offer monero.
-<br>If you can't find any good echange, this might be useful: https://www.getmonero.org/community/merchants/.
+  <summary>Cryptocurrencies</summary>
+  If you want to donate using Monero, send XMR equivalent to the desired amount * the current exchange rate.<br>
+  Example: Tier III patronage costs 10€. Current XMR price: 205.89. = You send 0.0485696 XMR to my wallet addres.<br>
+  Here's the address:<br>
+  <img src="hxr404_monero.png" alt="QR code of the monero adress 889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj"></img><br>
+  <em>If you can't / don't want to scan the QR Code: ```monero:889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj```</em>
+  <br>
+  In case you want to donate with another crypto e.g. Bitcoin you'll have to use an exchange. The are many good exchanges that offer monero.
+  <br>If you can't find any good echange, this might be useful: https://www.getmonero.org/community/merchants/.
 </details>
 
 If nothing seems good for you, contact me and we'll find a way to handle your donation.
