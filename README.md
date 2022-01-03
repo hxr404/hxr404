@@ -69,10 +69,11 @@ Monero, GitHub Sponsors and liberapay are the preferred ones, allthough others a
   Example: Tier III patronage costs 10€. Current XMR price: 205.89. = You send 0.0485696 XMR to my wallet addres.<br>
   Here's the address:<br>
   <img src="hxr404_monero.png" alt="QR code of the monero adress 889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj"></img><br>
-  <em>If you can't / don't want to scan the QR Code: ```monero:889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj```</em>
+  If you can't / don't want to scan the QR Code:
+  <pre>monero:889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj</pre>
   <br>
   In case you want to donate with another crypto e.g. Bitcoin you'll have to use an exchange. The are many good exchanges that offer monero.
-  <br>If you can't find any good echange, this might be useful: https://www.getmonero.org/community/merchants/.
+  <br>If you can't find any good echange, this might be useful: https://kycnot.me/ https://www.getmonero.org/community/merchants/ https://haveno.exchange/.
 </details>
 
 If nothing seems good for you, contact me and we'll find a way to handle your donation.
